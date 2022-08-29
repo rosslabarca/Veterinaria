@@ -1,0 +1,22 @@
+/* inicio*/
+
+.bgmain {
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+  }
+
+.color-overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+
+  /*contactos*/
+
+  .bg-form{
+    background-color: #adb5bd;
+    padding: 20px;
+    margin: 100px;
+}
+
